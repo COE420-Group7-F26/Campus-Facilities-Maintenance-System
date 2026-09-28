@@ -9,3 +9,12 @@
 | UC-03 | Add Repair Notes | Maintenance Staff | The maintenance staff member adds notes describing the repair work performed on an assigned request. | Maryam Alteneiji |
 | UC-04 | Receive Status Notification | Student | The student receives a notification when the status of a submitted maintenance request changes. | Maryam Alteneiji |
 | UC-05 | View Request History | Facilities Administrator | The facilities administrator views previous maintenance requests and their recorded details for reference. | Maryam Alteneiji |
+## Maryam Almheiri Contributions
+
+| UC ID | Use Case Name | Primary Actor | Short Description | Contributor |
+|---|---|---|---|---|
+| UC-01 | Submit Maintenance Request | Student | The student submits a new maintenance request by entering the issue location and description. | Maryam Almheiri |
+| UC-02 | View Request Status | Student | The student views the current status of a previously submitted maintenance request. | Maryam Almheiri |
+| UC-03 | View Submitted Requests | Facilities Administrator | The facilities administrator views submitted maintenance requests that require review. | Maryam Almheiri |
+| UC-04 | Assign Maintenance Request | Facilities Administrator | The facilities administrator assigns a maintenance request to an appropriate maintenance staff member. | Maryam Almheiri |
+| UC-05 | Update Request Status | Maintenance Staff | The maintenance staff member updates the status of an assigned request to reflect its progress or completion. | Maryam Almheiri |
