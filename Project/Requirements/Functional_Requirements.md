@@ -29,3 +29,13 @@
 | FR-18 | The system shall display to each maintenance staff member a list of the requests currently assigned to them, showing each request's location, category, priority, and status. | S-04 / Maintenance Staff | Shahad Alshamsi |
 | FR-19 | The system shall allow facilities administrators to search submitted maintenance requests by request ID or location. | S-03 / Facilities Administrator | Shahad Alshamsi |
 | FR-20 | The system shall allow maintenance staff to record the completion date and time when a maintenance request is completed. | S-04 / Maintenance Staff | Shahad Alshamsi |
+
+## Mohammad Shayan Kafeel Contributions
+
+| FR ID | Functional Requirement | Source Scenario/Stakeholder | Contributor |
+|---|---|---|---|
+| FR-11 | The system shall allow students to cancel a submitted maintenance request if work on the request has not yet started. | S-02 / Student | Mohammad Shayan Kafeel |
+| FR-12 | The system shall allow facilities administrators to reassign a maintenance request to a different maintenance staff member. | S-03 / Facilities Administrator | Mohammad Shayan Kafeel |
+| FR-13 | The system shall allow maintenance staff to upload a photo of the completed repair to a maintenance request. | S-04 / Maintenance Staff | Mohammad Shayan Kafeel |
+| FR-14 | The system shall allow students to provide feedback on a maintenance request after it has been completed. | S-04 / Student | Mohammad Shayan Kafeel |
+| FR-15 | The system shall allow facilities administrators to filter maintenance requests by their current status. | S-03 / Facilities Administrator | Mohammad Shayan Kafeel |

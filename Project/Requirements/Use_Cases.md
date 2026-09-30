@@ -28,3 +28,12 @@
 | UC-18 | View Assigned Requests | Maintenance Staff | The maintenance staff member views the list of requests assigned to them in order to plan their work. | Shahad Alshamsi |
 | UC-19 | Search Maintenance Requests | Facilities Administrator | The facilities administrator searches submitted maintenance requests by request ID or location. | Shahad Alshamsi |
 | UC-20 | Record Repair Completion | Maintenance Staff | The maintenance staff member records the completion date and time when the repair is completed. | Shahad Alshamsi |
+
+
+| UC ID | Use Case Name | Primary Actor | Short Description | Contributor |
+|---|---|---|---|---|
+| UC-11 | Cancel Maintenance Request | Student | The student cancels a submitted maintenance request if maintenance work has not yet started. | Mohammad Shayan Kafeel |
+| UC-12 | Reassign Maintenance Request | Facilities Administrator | The facilities administrator reassigns a maintenance request to a different maintenance staff member. | Mohammad Shayan Kafeel |
+| UC-13 | Upload Completion Photo | Maintenance Staff | The maintenance staff member uploads a photo showing the completed repair. | Mohammad Shayan Kafeel |
+| UC-14 | Submit Maintenance Feedback | Student | The student provides feedback after their maintenance request has been completed. | Mohammad Shayan Kafeel |
+| UC-15 | Filter Maintenance Requests | Facilities Administrator | The facilities administrator filters maintenance requests according to their current status. | Mohammad Shayan Kafeel |

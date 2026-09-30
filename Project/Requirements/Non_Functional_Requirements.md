@@ -28,3 +28,13 @@
 | NFR-18 | Usability | The system shall be fully usable on mobile screens as narrow as 360 pixels without horizontal scrolling. | Shahad Alshamsi |
 | NFR-19 | Performance | The system shall deliver a status-change notification to the student within 1 minute of the status being updated. | Shahad Alshamsi |
 | NFR-20 | Maintainability | The system shall allow administrators to update the list of issue categories and campus locations through the system interface, without modifying the source code. | Shahad Alshamsi |
+
+## Mohammad Shayan Kafeel Contributions
+
+| NFR ID | Category | Non-Functional Requirement | Contributor |
+|---|---|---|---|
+| NFR-11 | Security | The system shall restrict administrative functions to authorized facilities administrators. | Mohammad Shayan Kafeel |
+| NFR-12 | Performance | The system shall return maintenance request search results within 3 seconds under normal operating conditions. | Mohammad Shayan Kafeel |
+| NFR-13 | Usability | The system shall provide a confirmation message immediately after a maintenance request is successfully submitted. | Mohammad Shayan Kafeel |
+| NFR-14 | Reliability | The system shall create a daily backup of maintenance request data. | Mohammad Shayan Kafeel |
+| NFR-15 | Scalability | The system shall support at least 500 concurrent users without loss of core functionality. | Mohammad Shayan Kafeel |
