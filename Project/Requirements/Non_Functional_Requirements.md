@@ -18,3 +18,13 @@
 | NFR-03 | Usability | The system shall allow a user to submit a maintenance request in no more than 5 steps after logging in. | Maryam Almheiri |
 | NFR-04 | Reliability | The system shall maintain at least 99% availability during university operating hours. | Maryam Almheiri |
 | NFR-05 | Portability | The system shall support the latest versions of Chrome, Safari, and Microsoft Edge. | Maryam Almheiri |
+
+## Shahad Alshamsi Contributions
+
+| NFR ID | Category | Non-Functional Requirement | Contributor |
+|---|---|---|---|
+| NFR-16 | Security | The system shall transmit all data between the user's browser and the server over HTTPS, and shall redirect any HTTP request to HTTPS. | Shahad Alshamsi |
+| NFR-17 | Robustness | The system shall reject uploaded files that are not JPEG or PNG or that exceed 5 MB, display an error message, and keep all other information already entered in the request form. | Shahad Alshamsi |
+| NFR-18 | Usability | The system shall be fully usable on mobile screens as narrow as 360 pixels without horizontal scrolling. | Shahad Alshamsi |
+| NFR-19 | Performance | The system shall deliver a status-change notification to the student within 1 minute of the status being updated. | Shahad Alshamsi |
+| NFR-20 | Maintainability | The system shall allow administrators to update the list of issue categories and campus locations through the system interface, without modifying the source code. | Shahad Alshamsi |
