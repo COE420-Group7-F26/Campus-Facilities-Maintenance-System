@@ -16,4 +16,6 @@ Comparing all paths through the network:
 The longest path is 34 days, which matches the earliest finish of T10 (EF = 34). This path is therefore the Critical Path.
 
 Verification:
-The schedule was entered into ProjectLibre using the same task durations and predecessors from the WBS. The tool calculated a total duration of 34 days and marked T1, T3, T4, T5, T7, T8, T9 and T10 as critical, which matches the manual calculations. (Screenshot below.)
+The schedule was entered into ProjectLibre using the same task durations and predecessors from the WBS. The tool calculated a total duration of 34 days and marked T1, T3, T4, T5, T7, T8, T9 and T10 as critical, which matches the manual calculations. 
+
+   ![CPM verification in Google Colab](Critical_Path_Verification.png)
